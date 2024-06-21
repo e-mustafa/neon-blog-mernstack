@@ -38,19 +38,17 @@ const ExpandMoreTag = styled((props) => {
 }));
 
 function BlogForm({ title }) {
-	const navigate = useNavigate()
+	const navigate = useNavigate();
 	const { id } = useParams();
+
 	const [expanded, setExpanded] = useState(false);
-	const handleExpandClick = () => {
-		setExpanded(!expanded);
-	};
+	const handleExpandClick = () => setExpanded(!expanded);
 
 	const [formInfo, setFormInfo] = useState(
 		title.toLowerCase() === 'new' ? initialBlog : {}
 	);
-	const [processing, setProcessing] = useState(false);
 
-	console.log(formInfo);
+	const [processing, setProcessing] = useState(false);
 
 	const handelChange = (event) => {
 		const { name, value } = event.target;
@@ -62,9 +60,7 @@ function BlogForm({ title }) {
 	// when upload image add it to main state --------------------------
 	const [img, setImg] = useState('');
 	useEffect(() => {
-		if (img) {
-			setFormInfo((prev) => ({ ...prev, image: img }));
-		}
+		if (img) { setFormInfo((prev) => ({ ...prev, image: img })) }
 	}, [img]);
 	console.log(img);
 
@@ -114,8 +110,8 @@ function BlogForm({ title }) {
 	const HandelSubmit = async (event) => {
 		event.preventDefault();
 		setProcessing(true);
-		console.log('formInfooooooooo', formInfo);
-		console.log(title.toLowerCase() === 'new');
+
+		
 		try {
 			if (!formInfo?.title || !formInfo?.prev) {
 				setProcessing(false);

@@ -52,7 +52,6 @@ function RegisterForm() {
 	};
 
 	const submitRegister = async (values, actions) => {
-		console.log('valuesssssssss ', values);
 		const data = values;
 		delete data.passwordCon;
 		setProcessing(true);

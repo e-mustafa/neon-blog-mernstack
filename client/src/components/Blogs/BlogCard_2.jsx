@@ -37,14 +37,11 @@ function BlogCard2({ blog, dir, deleteBlog }) {
 	console.log(blog);
 	const user = useSelector((state) => state?.user?.user);
 
-	const isLogin = useSelector((state) => state?.user?.isLoggedIn);
-	const { isAdmin } = useSelector((state) => state?.user?.user);
 	const [expanded, setExpanded] = useState(false);
 
 	const handleExpandClick = () => {
 		setExpanded(!expanded);
 	};
-
 
 	return (
 		<Card
