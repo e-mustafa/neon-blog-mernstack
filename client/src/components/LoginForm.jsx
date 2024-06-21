@@ -60,6 +60,7 @@ function RegisterForm() {
 						'Server connection Error, please! Try again later';
 					notifyError(message);
 				});
+				console.log('apiiiiiii', api);
 		} catch (error) {
 			setProcessing(false);
 			notifyError(error.message || 'Server connection Error, please! Try again later');

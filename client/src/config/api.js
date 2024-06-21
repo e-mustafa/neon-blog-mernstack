@@ -9,5 +9,4 @@ export default Api;
 
 // frontend domain
 export const domainFront = 'http://localhost:3000';
-export const domainBack =
-	process.env.REACT_APP_DOMAIN || 'https://neon-blog-mernstack.onrender.com';
+export const domainBack = 'https://neon-blog-mernstack.onrender.com';
