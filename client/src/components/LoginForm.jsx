@@ -20,7 +20,7 @@ import { useDispatch } from 'react-redux';
 import { login } from '../redux/reducers/userSlice';
 import { loginSchema } from '../config/formSchema';
 
-function RegisterForm() {
+function LoginForm() {
 	const navigate = useNavigate();
 	const dispatch = useDispatch();
 
@@ -182,4 +182,4 @@ function RegisterForm() {
 	);
 }
 
-export default React.memo(RegisterForm);
+export default React.memo(LoginForm);
