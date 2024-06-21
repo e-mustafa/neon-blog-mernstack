@@ -1,0 +1,195 @@
+2023-09-07 03:56:49 | INFO | {"password":"12345678@aA","email":"noss@gml.com","age":10,"lastName":"Mustafa","firstName":"yara"}
+2023-09-07 03:57:49 | INFO | {"password":"12345678@aA","email":"noss@gml.com","age":10,"lastName":"Mustafa","firstName":"yara"}
+2023-09-07 03:57:49 | ERROR | User.findOn is not a function
+2023-09-08 20:14:38 | ERROR | data is not defined
+2023-09-08 20:15:08 | ERROR | data is not defined
+2023-09-08 20:16:52 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:17:44 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:17:48 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:19:00 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:20:01 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:20:45 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:21:39 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:26:47 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:28:58 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:29:24 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:29:30 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:32:00 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:34:02 | ERROR | E11000 duplicate key error collection: try07.users index: username_1 dup key: { username: null }
+2023-09-08 20:39:16 | INFO | New User Created Successfully
+2023-09-08 20:39:40 | INFO | New User Created Successfully
+2023-09-08 20:40:03 | INFO | New User Created Successfully
+2023-09-08 21:06:33 | ERROR | jwt must be provided
+2023-09-08 21:08:16 | ERROR | jwt must be provided
+2023-09-08 21:25:14 | ERROR | jwt must be provided
+2023-09-08 21:27:15 | ERROR | jwt must be provided
+2023-09-08 21:27:27 | ERROR | jwt must be provided
+2023-09-08 21:27:50 | ERROR | jwt must be provided
+2023-09-08 22:02:41 | ERROR | jwt must be provided
+2023-09-08 22:02:48 | ERROR | Cannot access 'user' before initialization
+2023-09-08 22:06:18 | ERROR | jwt must be provided
+2023-09-08 22:44:01 | ERROR | jwt must be provided
+2023-09-08 22:44:07 | INFO | {"id":"64fb5c736f954cb7cf15443"}
+2023-09-08 22:48:41 | ERROR | jwt must be provided
+2023-09-08 22:48:46 | INFO | undefined
+2023-09-08 22:49:56 | INFO | undefined
+2023-09-08 22:49:58 | INFO | undefined
+2023-09-08 22:50:06 | INFO | undefined
+2023-09-08 22:51:36 | INFO | undefined
+2023-09-08 22:51:56 | INFO | undefined
+2023-09-08 22:52:54 | INFO | undefined
+2023-09-08 22:53:10 | INFO | undefined
+2023-09-08 22:55:04 | INFO | 64fb5c736f954cb7cf15443
+2023-09-08 22:55:34 | INFO | 64fb5c736f954cb7cf15443
+2023-09-08 22:56:09 | INFO | 64fb5c736f954cb7cf15443
+2023-09-08 22:57:21 | INFO | 64fb5c736f954cb7cf15443
+2023-09-08 22:58:01 | ERROR | jwt must be provided
+2023-09-08 22:58:06 | INFO | 64fb5c736f954cb7cf15443
+2023-09-09 02:50:26 | ERROR | jwt must be provided
+2023-09-09 02:50:33 | INFO | 64fb5c736f954cb7cf15443
+2023-09-09 02:53:05 | INFO | 64fb5c736f954cb7cf15443s
+2023-09-09 02:53:12 | INFO | 64fb5c736f954cb7cf15443
+2023-09-09 02:53:20 | INFO | 64fb5c736f954cb7cf15443d
+2023-09-09 02:54:58 | ERROR | jwt must be provided
+2023-09-09 02:55:03 | INFO | 64fb5c736f954cb7cf15443d
+2023-09-09 02:59:18 | ERROR | jwt must be provided
+2023-09-09 02:59:24 | INFO | 64fb5c736f954cb7cf15443d
+2023-09-09 02:59:29 | INFO | 64fb5c736f954cb7cf15443
+2023-09-09 03:00:27 | INFO | 64fb5c736f954cb7cf15443
+2023-09-09 03:04:47 | ERROR | jwt must be provided
+2023-09-09 03:06:08 | INFO | 64fb5c736f954cb7cf15443
+2023-09-09 03:07:03 | INFO | {"id":"64fb5c736f954cb7cf15443"}
+2023-09-09 03:14:01 | ERROR | jwt must be provided
+2023-09-09 03:14:07 | INFO | {"id":"64fb5c736f954cb7cf15443"}
+2023-09-09 03:30:18 | ERROR | jwt must be provided
+2023-09-09 03:33:17 | ERROR | jwt must be provided
+2023-09-09 03:33:48 | INFO | [object Object] Account deleted successfully
+2023-09-09 03:34:11 | INFO | 64fb5c736f954cb7cf15443d Account deleted successfully
+2023-09-09 03:34:55 | INFO | id: 64fb5c736f954cb7cf15443d Account deleted successfully
+2023-09-09 22:53:44 | ERROR | jwt must be provided
+2023-09-09 22:59:56 | ERROR | jwt must be provided
+2023-09-09 23:03:24 | ERROR | jwt must be provided
+2023-09-09 23:06:42 | ERROR | jwt must be provided
+2023-09-09 23:15:05 | ERROR | jwt must be provided
+2023-09-09 23:18:02 | ERROR | jwt must be provided
+2023-09-09 23:37:04 | ERROR | jwt must be provided
+2023-09-09 23:40:43 | ERROR | jwt must be provided
+2023-09-09 23:43:42 | ERROR | jwt must be provided
+2023-09-10 00:10:46 | ERROR | jwt must be provided
+2023-09-10 00:15:25 | ERROR | jwt must be provided
+2023-09-10 00:19:45 | ERROR | jwt must be provided
+2023-09-10 00:23:01 | ERROR | jwt must be provided
+2023-09-10 00:27:43 | ERROR | jwt must be provided
+2023-09-10 00:31:10 | ERROR | jwt must be provided
+2023-09-10 00:35:44 | ERROR | jwt must be provided
+2023-09-10 00:38:58 | ERROR | jwt must be provided
+2023-09-10 00:42:45 | ERROR | jwt must be provided
+2023-09-10 00:45:48 | ERROR | jwt must be provided
+2023-09-10 00:49:41 | ERROR | jwt must be provided
+2023-09-10 00:54:22 | ERROR | jwt must be provided
+2023-09-10 01:30:53 | ERROR | jwt must be provided
+2023-09-10 01:33:59 | ERROR | jwt must be provided
+2023-09-10 01:37:36 | ERROR | jwt must be provided
+2023-09-10 01:40:49 | ERROR | jwt must be provided
+2023-09-10 01:42:53 | ERROR | jwt must be provided
+2023-09-10 01:45:55 | ERROR | jwt must be provided
+2023-09-10 01:46:09 | ERROR | jwt must be provided
+2023-09-10 01:47:08 | ERROR | jwt must be provided
+2023-09-10 01:47:20 | ERROR | jwt must be provided
+2023-09-10 01:47:54 | ERROR | jwt must be provided
+2023-09-10 01:48:02 | ERROR | jwt must be provided
+2023-09-10 01:48:03 | ERROR | jwt must be provided
+2023-09-10 01:48:06 | ERROR | jwt must be provided
+2023-09-10 01:48:10 | ERROR | jwt must be provided
+2023-09-10 01:48:17 | ERROR | jwt must be provided
+2023-09-10 01:48:17 | ERROR | jwt must be provided
+2023-09-10 01:48:18 | ERROR | jwt must be provided
+2023-09-10 01:49:57 | ERROR | jwt must be provided
+2023-09-10 01:50:43 | ERROR | jwt must be provided
+2023-09-10 01:50:51 | ERROR | jwt must be provided
+2023-09-10 02:02:03 | ERROR | jwt must be provided
+2023-09-10 02:02:05 | ERROR | jwt must be provided
+2023-09-10 02:14:25 | ERROR | jwt must be provided
+2023-09-10 02:15:05 | ERROR | jwt must be provided
+2023-09-10 02:15:40 | ERROR | jwt must be provided
+2023-09-10 02:15:42 | ERROR | jwt must be provided
+2023-09-10 02:15:53 | ERROR | jwt must be provided
+2023-09-10 02:15:53 | ERROR | jwt must be provided
+2023-09-10 02:16:25 | ERROR | jwt must be provided
+2023-09-10 02:16:38 | ERROR | jwt must be provided
+2023-09-10 02:16:40 | ERROR | jwt must be provided
+2023-09-10 02:16:41 | ERROR | jwt must be provided
+2023-09-10 02:20:50 | ERROR | jwt must be provided
+2023-09-10 02:20:52 | ERROR | jwt must be provided
+2023-09-10 02:23:13 | ERROR | jwt must be provided
+2023-09-10 02:23:32 | ERROR | jwt must be provided
+2023-09-10 02:24:31 | ERROR | jwt must be provided
+2023-09-10 02:32:43 | INFO | New User Created Successfully
+2023-09-13 00:40:30 | ERROR | jwt must be provided
+2023-09-13 00:50:46 | ERROR | jwt must be provided
+2023-09-18 02:30:28 | ERROR | User validation failed: password: Path `password` is required., email: please provide an Email, lastName: Path `lastName` is required., firstName: Path `firstName` is required.
+2023-09-18 02:41:02 | INFO | New User Created Successfully
+2023-09-18 23:17:21 | INFO | New User Created Successfully
+2023-09-21 00:00:34 | ERROR | id is not defined
+2023-09-21 00:01:38 | ERROR | id is not defined
+2023-09-21 00:01:41 | ERROR | id is not defined
+2023-09-21 00:02:19 | ERROR | id is not defined
+2023-09-21 00:02:23 | ERROR | id is not defined
+2023-09-21 00:02:23 | ERROR | id is not defined
+2023-09-21 00:05:25 | ERROR | id is not defined
+2023-09-21 00:05:25 | ERROR | id is not defined
+2023-09-21 00:23:07 | ERROR | Cannot convert object to primitive value
+2023-09-21 00:38:59 | ERROR | user is not defined
+2023-09-21 02:04:28 | ERROR | id is not defined
+2023-09-21 02:04:28 | ERROR | id is not defined
+2023-09-21 02:06:28 | ERROR | id is not defined
+2023-09-21 02:06:49 | ERROR | id is not defined
+2023-09-21 02:06:53 | ERROR | id is not defined
+2023-09-21 02:07:06 | ERROR | id is not defined
+2023-09-21 03:25:00 | ERROR | id is not defined
+2023-09-21 03:27:39 | ERROR | id is not defined
+2023-09-21 03:29:34 | ERROR | imagePath is not defined
+2023-09-21 03:29:55 | ERROR | imagePath is not defined
+2023-09-21 05:06:11 | ERROR | blog is not defined
+2023-09-21 05:08:05 | ERROR | Cannot access 'user' before initialization
+2023-09-21 05:11:03 | ERROR | Cannot access 'user' before initialization
+2023-09-21 05:35:01 | INFO | New User Created Successfully
+2023-09-21 06:16:12 | ERROR | jwt must be provided
+2023-09-21 06:38:14 | ERROR | Cast to string failed for value "{
+  path: 'user-297566_640.jpg',
+  preview: 'blob:http://localhost:3000/9f1199a1-0279-464e-b06f-9fd47eeba245'
+}" (type Object) at path "image"
+2023-09-21 06:56:12 | ERROR | Cast to string failed for value "{ path: 'user-297566_640.jpg' }" (type Object) at path "image"
+2023-09-21 06:57:59 | ERROR | Cast to string failed for value "{ path: 'user-297566_640.jpg' }" (type Object) at path "image"
+2023-09-21 07:00:09 | ERROR | Cast to string failed for value "{ path: 'user-297566_640.jpg' }" (type Object) at path "image"
+2023-09-21 07:05:26 | ERROR | Cast to string failed for value "{ path: 'user-297566_640.jpg' }" (type Object) at path "image"
+2023-09-21 07:06:08 | ERROR | Cast to string failed for value "{ path: 'user-297566_640.jpg' }" (type Object) at path "image"
+2023-09-21 07:06:47 | ERROR | Cast to string failed for value "{ path: 'user-297566_640.jpg' }" (type Object) at path "image"
+2023-09-21 07:07:06 | ERROR | Cast to string failed for value "{ path: 'default_female600x600-5cdb53.png' }" (type Object) at path "image"
+2023-09-21 07:12:03 | ERROR | Cast to string failed for value "{ path: 'default_female600x600-5cdb53.png' }" (type Object) at path "image"
+2023-09-21 15:10:41 | ERROR | Cast to string failed for value "{}" (type Object) at path "image"
+2023-09-21 17:51:40 | ERROR | fs is not defined
+2023-09-21 17:52:58 | ERROR | ENOENT: no such file or directory, unlink './public'
+2023-09-21 18:26:17 | ERROR | ENOENT: no such file or directory, unlink './public/api/user/1695308134537.jpg'
+2023-09-21 18:28:17 | ERROR | ENOENT: no such file or directory, unlink './public1695308134537.jpg'
+2023-09-21 18:28:49 | ERROR | ENOENT: no such file or directory, unlink './public/1695308134537.jpg'
+2023-09-21 18:31:02 | ERROR | ENOENT: no such file or directory, unlink '../public/1695308134537.jpg'
+2023-09-24 05:02:48 | INFO | New User Created Successfully
+2023-09-24 17:07:18 | ERROR | Cannot read properties of undefined (reading 'includes')
+2023-09-24 17:07:18 | ERROR | Cannot read properties of undefined (reading 'includes')
+2023-09-24 19:05:42 | ERROR | Cannot read properties of undefined (reading 'filter')
+2023-09-24 19:07:12 | ERROR | Cannot read properties of undefined (reading 'save')
+2023-09-24 19:08:07 | INFO | 650f98c8016995901703c3ec User logout successfully
+2023-09-24 19:16:27 | INFO | 650f98c8016995901703c3ec User logout successfully
+2023-09-24 19:18:06 | INFO | 650f98c8016995901703c3ec User logout successfully
+2023-09-24 19:20:44 | INFO | 650f98c8016995901703c3ec User logout successfully
+2023-09-24 19:21:11 | ERROR | Illegal arguments: string, undefined
+2023-09-24 20:20:03 | ERROR | bcrypt is not defined
+2023-09-24 20:22:55 | ERROR | Illegal arguments: undefined, string
+2023-09-24 20:24:33 | ERROR | Illegal arguments: undefined, string
+2023-09-24 21:10:13 | ERROR | Cannot read properties of undefined (reading 'save')
+2023-09-24 21:11:39 | ERROR | res.clearCookies is not a function
+2023-09-24 21:17:27 | INFO | 650babd57fc29613e8e5ec86 jojo Logout successfully
+2023-09-24 21:19:15 | INFO | 650babd57fc29613e8e5ec86 jojo Logout successfully
+2023-09-24 21:19:47 | INFO | 650babd57fc29613e8e5ec86 User logout from all devices successfully
+2023-09-24 21:31:20 | INFO | id: 650f98c8016995901703c3ec Account deleted successfully

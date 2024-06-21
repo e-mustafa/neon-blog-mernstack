@@ -1,0 +1,66 @@
+2023-09-09 22:55:43 | ERROR | rew is not defined
+2023-09-09 22:56:00 | ERROR | rew is not defined
+2023-09-09 23:06:51 | ERROR | Blog validation failed: date: Cast to date failed for value "1,694,289,997,702" (type string) at path "date"
+2023-09-09 23:17:49 | ERROR | data is not defined
+2023-09-09 23:20:32 | ERROR | Cannot read properties of undefined (reading 'toISOString')
+2023-09-09 23:20:51 | ERROR | (intermediate value).now is not a function
+2023-09-09 23:37:12 | ERROR | find is not defined
+2023-09-09 23:37:55 | ERROR | find is not defined
+2023-09-09 23:38:03 | ERROR | find is not defined
+2023-09-10 00:10:52 | ERROR | Cannot read properties of null (reading 'save')
+2023-09-10 00:15:32 | ERROR | req.send is not a function
+2023-09-10 00:19:51 | ERROR | Cast to ObjectId failed for value "{ _id: undefined }" (type Object) at path "_id" for model "Blog"
+2023-09-10 00:29:40 | ERROR | Cannot read properties of undefined (reading 'path')
+2023-09-10 00:31:15 | ERROR | Cannot read properties of undefined (reading 'path')
+2023-09-10 00:31:52 | ERROR | Cannot read properties of undefined (reading 'path')
+2023-09-10 00:45:53 | ERROR | image is not defined
+2023-09-10 01:30:59 | ERROR | Cannot read properties of undefined (reading 'id')
+2023-09-10 01:38:32 | ERROR | Cannot read properties of null (reading 'save')
+2023-09-10 01:41:54 | ERROR | Cannot read properties of undefined (reading 'path')
+2023-09-10 02:17:22 | ERROR | Cast to ObjectId failed for value "1694301380910.jpg" (type string) at path "_id" for model "Blog"
+2023-09-10 02:17:41 | ERROR | Cast to ObjectId failed for value "1694301449144.jpg" (type string) at path "_id" for model "Blog"
+2023-09-10 02:18:34 | ERROR | Cast to ObjectId failed for value "1694301499872.jpg" (type string) at path "_id" for model "Blog"
+2023-09-10 02:19:41 | ERROR | Cannot read properties of undefined (reading '_id')
+2023-09-10 02:20:16 | ERROR | Cannot read properties of undefined (reading '_id')
+2023-09-10 02:36:12 | ERROR | Cast to ObjectId failed for value "admin" (type string) at path "_id" for model "Blog"
+2023-09-10 02:36:25 | ERROR | Cast to ObjectId failed for value "admin" (type string) at path "_id" for model "Blog"
+2023-09-13 00:43:23 | ERROR | Cannot read properties of undefined (reading '_id')
+2023-09-13 00:43:27 | ERROR | Cannot read properties of undefined (reading '_id')
+2023-09-13 00:45:42 | ERROR | Cannot read properties of undefined (reading '_id')
+2023-09-21 18:01:10 | ERROR | Cast to ObjectId failed for value "1695308134537.jpg" (type string) at path "_id" for model "Blog"
+2023-09-23 16:36:49 | ERROR | Cast to ObjectId failed for value "2" (type string) at path "_id" for model "Blog"
+2023-09-23 16:36:49 | ERROR | Cast to ObjectId failed for value "2" (type string) at path "_id" for model "Blog"
+2023-09-23 16:36:58 | ERROR | Cast to ObjectId failed for value "3" (type string) at path "_id" for model "Blog"
+2023-09-23 16:36:58 | ERROR | Cast to ObjectId failed for value "3" (type string) at path "_id" for model "Blog"
+2023-09-24 02:01:07 | ERROR | E11000 duplicate key error collection: try07.blogs index: _id_ dup key: { _id: ObjectId('650f59eccdc32775c9cd433c') }
+2023-09-24 02:11:39 | ERROR | E11000 duplicate key error collection: try07.blogs index: _id_ dup key: { _id: ObjectId('650f59eccdc32775c9cd433c') }
+2023-09-24 02:14:04 | ERROR | E11000 duplicate key error collection: try07.blogs index: _id_ dup key: { _id: ObjectId('650f59eccdc32775c9cd433c') }
+2023-09-24 02:25:45 | ERROR | ENOENT: no such file or directory, unlink './public/api/blog/1695504876554.jpeg'
+2023-09-24 02:29:45 | ERROR | ENOENT: no such file or directory, unlink './public/api/blog/1695504876554.jpeg'
+2023-09-24 02:30:16 | ERROR | ENOENT: no such file or directory, unlink './public1695504876554.jpeg'
+2023-09-24 02:30:33 | ERROR | ENOENT: no such file or directory, unlink './public/1695504876554.jpeg'
+2023-09-24 02:34:28 | ERROR | Cannot access 'blog' before initialization
+2023-09-24 04:10:49 | ERROR | blogs.populate is not a function
+2023-09-24 04:10:49 | ERROR | blogs.populate is not a function
+2023-09-24 04:14:23 | ERROR | blogs.populate is not a function
+2023-09-24 04:15:35 | ERROR | blogs.populate is not a function
+2023-09-24 04:15:40 | ERROR | blogs.populate is not a function
+2023-09-24 04:15:42 | ERROR | blogs.populate is not a function
+2023-09-24 04:15:44 | ERROR | blogs.populate is not a function
+2023-09-24 04:16:17 | ERROR | blogs.populate is not a function
+2023-09-24 04:18:50 | ERROR | blogs.populate is not a function
+2023-09-24 04:18:50 | ERROR | blogs.populate is not a function
+2023-09-24 04:22:26 | ERROR | Blog.find(...).forEach is not a function
+2023-09-24 04:22:27 | ERROR | Blog.find(...).forEach is not a function
+2023-09-24 04:23:21 | ERROR | Blog.find(...).forEach is not a function
+2023-09-24 04:23:21 | ERROR | Blog.find(...).forEach is not a function
+2023-09-24 04:27:55 | ERROR | Schema hasn't been registered for model "user".
+Use mongoose.model(name, schema)
+2023-09-24 04:27:55 | ERROR | Schema hasn't been registered for model "user".
+Use mongoose.model(name, schema)
+2023-09-24 04:44:02 | ERROR | Schema hasn't been registered for model "‘User".
+Use mongoose.model(name, schema)
+2023-09-24 04:44:02 | ERROR | Schema hasn't been registered for model "‘User".
+Use mongoose.model(name, schema)
+2023-09-24 16:54:03 | ERROR | Unexpected token _ in JSON at position 4
+2023-09-24 16:54:03 | ERROR | Unexpected token _ in JSON at position 4
