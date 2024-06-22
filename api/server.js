@@ -9,7 +9,7 @@ const routes = require('./routes');
 
 app.use(
 	cors({
-		origin: [process.env.DOMAIN, 'http://localhost:3000', 'http://127.0.0.1:3000/'],
+		origin: ['https://neon-blog-mernstack.vercel.app', 'http://localhost:3000', 'http://127.0.0.1:3000/'],
 		credentials: true,
 		allowedHeaders: 'Content-Type,Authorization',
 	})
